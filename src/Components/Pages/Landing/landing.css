@@ -4,12 +4,19 @@
 
 .sidenav{
     width: 20%;
-    background-color: yellow;
+    background-color: #efefef;
     height: 100vh;
+    position: sticky;
+    top: 0;
 }
 
 .content-container{
     width: 80%;
-    background-color: aqua;
     height: 100vh;
+    margin-left: 50px;
+    position: sticky;
+    top: 0;
+}
+.content{
+    margin-top: 35px;
 }

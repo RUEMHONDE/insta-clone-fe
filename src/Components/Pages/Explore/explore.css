@@ -1,0 +1,21 @@
+.explore-content{
+   
+   overflow: scroll;
+   height: 200px;
+}
+.explore-item img{
+    width: 300px;
+    max-height: 400px;
+    border-radius: 20px;
+}
+.explore-item{
+    margin: 0 auto;
+    width: 50%;
+}
+/* .explore{
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    margin-top: 5px;
+    display: inline-block;
+} */
